@@ -1,0 +1,9 @@
+{
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.defaultColorDecorators": "never"
+    },
+
+    "python.defaultInterpreterPath": "${workspace}/.venv/bin/python3",
+    "python.terminal.activateEnvironment": true,
+}
